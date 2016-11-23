@@ -1,0 +1,21 @@
+Requests: HTTP for Humans
+
+Supported Features
+Requests is ready for today's web.
+
+1] International Domains and URLs
+2] Keep-Alive & Connection Pooling
+3] Sessions with Cookie Persistence
+4] Browser-style SSL Verification
+5] Basic/Digest Authentication
+6] Elegant Key/Value Cookies
+7] Automatic Decompression
+8] Automatic Content Decoding
+9] Unicode Response Bodies
+10] Multipart File Uploads
+11] HTTP(S) Proxy Support
+12] Connection Timeouts
+13] Streaming Downloads
+14] .netrc Support
+15] Chunked Requests
+16] Thread-safety
